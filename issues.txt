@@ -1,0 +1,5 @@
+Store Templates Issues
+----------------------
+
+[ ]Add badges to Steam templates. Demos and soundtracks have a badge in the
+   corner which might obscure important details.

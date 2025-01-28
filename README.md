@@ -10,6 +10,8 @@ Steam requires several graphical assets to be supplied in order to get a product
 
 Steam requires a Windows icon file to be supplied for the community icon asset. A suitable icon file is generated for projects made with the T Cubed Framework when building the Windows version.
 
+Avatars are not required.
+
 ## T Cubed Software
 
 Graphical assets required for projects listed on the T Cubed Software web site are in the 't_cubed_software' folder.

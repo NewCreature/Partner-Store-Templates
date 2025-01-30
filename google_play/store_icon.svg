@@ -23,16 +23,17 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="2.096401"
-     inkscape:cx="129.03066"
-     inkscape:cy="91.347029"
+     inkscape:zoom="1.0482005"
+     inkscape:cx="251.3832"
+     inkscape:cy="229.44084"
      inkscape:window-width="1112"
      inkscape:window-height="696"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
-     showgrid="true">
+     showgrid="true"
+     showguides="true">
     <inkscape:grid
        id="grid1"
        units="px"
@@ -53,5 +54,13 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <rect
+       style="fill:#ff0000;stroke-width:0.529;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1"
+       width="101.6"
+       height="101.6"
+       x="16.933332"
+       y="16.933332" />
+  </g>
 </svg>
